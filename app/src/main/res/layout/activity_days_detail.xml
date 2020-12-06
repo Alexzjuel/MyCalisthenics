@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#6f6f6f"
+    tools:context=".WeeklyWorkoutSchedule.daysDetailActivity">
+
+
+    <TextView
+        android:id="@+id/days_title_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="25dp"
+        android:gravity="center"
+        android:textSize="40sp"
+        android:text="Text"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/days_title_tv"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="0dp"
+
+        android:layout_marginBottom="3dp">
+
+        <TextView
+            android:id="@+id/days_description_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="25dp"
+            android:gravity="start"
+            android:text="Description"
+            android:textSize="26sp" />
+
+    </ScrollView>
+
+
+
+
+</RelativeLayout>

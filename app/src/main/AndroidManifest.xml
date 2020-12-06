@@ -11,22 +11,40 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".RegisterActivity">
+        <!--maybe delete  screenOrientation and windowSoftInputMode -->
+        <activity android:name=".ROOMCreateNotes.CreateANoteActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden">
+        </activity>
+        <!--maybe delete screenOrientation and windowSoftInputMode -->
+        <activity android:name=".ROOMCreateNotes.NoteActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden"/>
+        <activity
+            android:name=".ExerciseLibrary.ExerciseLibraryActivity"
+            android:label="Youtube Player" />
+        <activity
+            android:name=".ExerciseLibrary.PlayBtnActivity"
+            android:label="Play Button Activity" />
+        <activity android:name=".WeeklyWorkoutSchedule.daysDetailActivity" />
+
+        <activity android:name=".MainScreen.ExerciseActivity" />
+        <activity android:name=".LoginScreen.RegisterActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".DetailActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".LoginScreen.LoginActivity" />
+        <activity android:name=".MainScreen.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".WeeklyWorkoutSchedule.DaysActivity" />
 
         <meta-data
             android:name="preloaded_fonts"

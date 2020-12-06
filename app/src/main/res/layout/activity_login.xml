@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/cali_background1"
-    tools:context=".LoginActivity">
+    tools:context=".LoginScreen.LoginActivity">
 
     <Button
         android:id="@+id/loginBtn"
@@ -36,7 +36,7 @@
         android:ems="10"
         android:fontFamily="@font/andada"
         android:hint="Password"
-        android:inputType="textPersonName"
+        android:inputType="textPassword"
         android:padding="10dp"
         android:textColor="#000000"
         android:textSize="18sp"
@@ -59,7 +59,7 @@
         android:ems="10"
         android:fontFamily="@font/andada"
         android:hint="Email"
-        android:inputType="textPersonName"
+        android:inputType="textEmailAddress"
         android:padding="10dp"
         android:textColor="#000000"
         android:textSize="18sp"

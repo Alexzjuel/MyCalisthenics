@@ -1,5 +1,35 @@
 <resources>
     <string name="app_name">MyCalisthenics</string>
+    <string name="note_title">Note Title</string>
+    <string name="description">Description</string>
+    <string name="miscellaneous">miscellaneous</string>
+    <string name="delete_note">delete note</string>
+
+    <string name="sure_you_want_to_delete_this_note">Sure you want to delete this note?</string>
+    <string name="Delete_note">Delete note</string>
+    <string name="cancel">Cancel</string>
+    <string name="pick_color">Pick color</string>
     //code from firebase.google.com
     //code from firebase.google.com
+
+    <string-array name="week_days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Tuesday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string-array name="workout_plan">
+        <item>S1: Planche lean - 3 sets / to failure\n S2: Tuck Planche - 3 sets / to failure\n A1: Ring Dips - 3 sets / 5-12 reps\n A2: Pike push ups - 3 sets / 5-12 reps\n A3: Diamond push ups - 3 sets / 5-12 reps\n A4: Skull crushers - 3 sets / 5-12 reps</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Tuesday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
 </resources>
