@@ -1,0 +1,32 @@
+{
+"WeeklyCalisthenicsSchedule" : [
+ {
+   "title": "Monday",
+   "calisthenics": "S1: Planche lean - 3 sets / to failure\n S2: Tuck Planche - 3 sets / to failure\n \nA1: Ring Dips - 3 sets / 5-12 reps\n A2: Pike push ups - 3 sets / 5-12 reps\n A3: Diamond push ups - 3 sets / 5-12 reps\n A4: Skull crushers - 3 sets / 5-12 reps"
+ },
+ {
+   "title": "Tuesday",
+   "calisthenics": "S1: Tuck FL/Adv. Tuck FL/ BW Deadlifts FL/ FL (Train with bands)\nS2: Skin the cat/ Tuck BL/ Adv. Tuck BL/ Negative BL/ BL\n \nB1: Chin Ups - 5 sets / 5 reps\nB2: Horizontal Row - 3 sets / 5-12reps\nB3: Hammer Pull Ups - 3 sets / 5-12reps\nB4: Tucked Rows - 3 sets / 5-12reps"
+ },
+ {
+   "title": "Wednesday",
+   "calisthenics": "REST DAY"
+ },
+ {
+   "title": "Thursday",
+   "calisthenics": "S1: Planche lean - 3 sets / to failure\nS2: Tuck Planche - 3 sets / to failure\n \nC1: Incline push ups - 5 sets / 5 reps\nC2: Archer push ups - 3 sets / 5-12 reps\nC3: Ring flys - 3 sets / 5-12reps\nC4: Close grip ring push ups - 3 sets / 5-12 reps"
+ },
+ {
+   "title": "Friday",
+   "calisthenics": "S1: Tuck FL/Adv. Tuck FL/ BW Deadlifts FL/ FL (Train with bands)\nS2: Skin the cat/ Tuck BL/ Adv. Tuck BL/ Negative BL/ BL\n \nD1: Pull Ups - 5 sets / 5 reps\nD2: OA Chin ups - 3 sets - 5-12 reps\nD3: BW ring curls - 3 sets - 5-12 reps\nD4: Reverse curls - 3 sets - 5-12 reps"
+ },
+ {
+   "title": "Saturday",
+   "calisthenics": "E1: Squat jumps - 3 sets - 5-12 reps\nE2: Bulgarian split squat - 3 sets - 5-12 reps\nE3: Nordic ham curl - 3 sets - 5-12 reps\nE4: Sprinter lunge - 3 sets - 5-12 reps\n \nF1: Hollow rocks - 3 sets - 5-12 reps\nF2: 2 point plank - 3 sets - 5-12 reps\nF3: Straddle leg lifts - 3 sets - 5-12 reps\nF4: Banded crunches - 3 sets - 5-12 reps\n"
+ },
+ {
+   "title": "Sunday",
+   "calisthenics": "REST DAY"
+ }
+]
+}
